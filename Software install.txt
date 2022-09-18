@@ -1,0 +1,6 @@
+Software ที่ต้องใช้งาน
+1. appserv-x64-9.3.0
+2. VSCodeUserSetup-x64-1.71.0
+3. Git-2.37.3-64-bit
+ทางเลือก
+xampp-windows-x64-8.1.6-0-VS16-installer
