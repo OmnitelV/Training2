@@ -1,0 +1,15 @@
+C:\AppServ\www\project1>git init
+C:\AppServ\www\project1>git add .
+C:\AppServ\www\project1>git commit -m "first commit"
+C:\AppServ\www\project1>git branch -M main
+C:\AppServ\www\project1>git remote add origin https://github.com/OmnitelV/project1.git
+C:\AppServ\www\project1>git push -u origin main
+
+
+การ update 
+C:\AppServ\www\project1>git status
+C:\AppServ\www\project1>git add .
+C:\AppServ\www\project1>git commit -m "Update"
+C:\AppServ\www\project1>git push
+
+
